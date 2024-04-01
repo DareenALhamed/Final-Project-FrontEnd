@@ -1,0 +1,88 @@
+.containerFooter{
+    background-color:rgb(0, 152, 152);
+   margin-top: 30px;
+ 
+  
+    margin-left: 10px;
+    
+
+
+}
+.rowFooter{
+    max-width: 600px;
+    margin: auto;
+    color: white;
+    padding: 10px 0px;
+    width: 100%;
+}
+.textDownload{
+    text-align: center;
+    
+}
+
+.downloadaApp{
+    margin-bottom: 3px;
+    font-size: 30px;
+
+
+}
+.footerImg{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+.rowImg{
+    display: flex;
+    align-items: center;
+    width: auto;
+    border-radius: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    width: 180px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border: 1px solid #ccc;
+}
+.androidImg{
+    width: 28px;
+    max-width: 32px;
+}
+.downloadOnStore
+{
+    text-align: left;
+    margin-left: 12px;
+}
+.downloadOn{
+    font-size: 12px;
+    color: rgb(229 231 235)
+    
+}
+.store{
+    font-size: 14px;
+    
+}
+
+.copyRights{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    font-size: 14px;
+    color: rgb(156 163 175);
+}
+.copyRightText{
+    order: 2;
+}
+.details{
+    order: 1;
+
+}
+.about, .contact, .privacy{
+    padding: 8px;
+    border-left: 1px;
+
+}
